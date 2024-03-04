@@ -1,0 +1,23 @@
+{
+  "name": "tea-oss-handle",
+  "version": "1.0.0",
+  "description": "Tea handle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdulahs/tea-oss-handle.git"
+  },
+  "dependencies": {
+    "watli": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulahs/tea-oss-handle/issues"
+  },
+  "homepage": "https://github.com/abdulahs/tea-oss-handle#readme"
+}
