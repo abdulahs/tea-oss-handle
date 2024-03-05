@@ -7,7 +7,6 @@ class TeaOSSHandle {
   
     addContributor(contributor) {
       this.contributors.push(contributor);
-      console.log(`Added ${contributor} as a contributor to the ${this.projectName} project.`);
     }
   
     removeContributor(contributor) {
